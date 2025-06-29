@@ -8,9 +8,9 @@
 
 <dependencies>
 	<dependency>
-	    <groupId>dev.revere.spigot</groupId>
-	    <artifactId>ZoneSpigot</artifactId>
-	    <version>main-SNAPSHOT</version>
+	    <groupId>com.github.RevereInc</groupId>
+	    <artifactId>zone-spigot-api</artifactId>
+	    <version>Tag</version>
 	</dependency>
 </dependencies>
 ```
